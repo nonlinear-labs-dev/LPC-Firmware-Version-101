@@ -4,7 +4,7 @@
 
 # Whitelist some files
 !.gitignore
-
+!.editorconfig
 
 # Whitelist our folders we want to sync
 # trailing "/" is optional for folders, may match file though.
@@ -12,4 +12,4 @@
 !doc/
 !M0_project/
 !M4_project/
-!nl_lib
+!nl_lib/
